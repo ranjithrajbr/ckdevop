@@ -12504,7 +12504,8 @@ only screen and (min-resolution:2dppx) {
 
 .team-2 .team-content-info .name,
 .team-2 .team-content-info h4 {
-    margin-bottom: 1rem
+    margin: 40px 0px 40px 0px;
+    color: white;
 }
 
 .team-2 .occupation {

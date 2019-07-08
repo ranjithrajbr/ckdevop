@@ -1958,7 +1958,8 @@ body,
 	margin-bottom: 2rem;
 }
 .team-2 .team-content-info{
-	padding: 50px;
+	padding: 12px;
+	background: black;
 }
 .team-2 .social-list{
 	margin-bottom: 0;
