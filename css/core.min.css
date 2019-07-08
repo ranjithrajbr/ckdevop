@@ -242,7 +242,8 @@ body.boxed .wrapper-inner {
 .row.flex>.v-align-middle,
 .row.flex>.v-align-middle>.box {
     height: auto;
-    display: inherit
+    /* display: inherit
+} */
 }
 
 .row.flex.boxes>.v-align-bottom,
@@ -1913,7 +1914,7 @@ a.overlay-info:hover {
 }
 
 .content-grid-4 .grid-item {
-    width: 25%
+    width: 50%
 }
 
 .content-grid-5 .grid-item {

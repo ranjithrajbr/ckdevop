@@ -1489,7 +1489,19 @@ body,
 [class*="intro-title-"].xsmall{
 	height: 15rem;
 }
+.intro-title-1{
+	background-image: url(../images/slider/slide-2-page-intro.jpg);	
+}
 .intro-title-2{
+	background-image: url(../images/slider/slide-2-page-intro.jpg);	
+}
+.intro-title-3{
+	background-image: url(../images/slider/slide-2-page-intro.jpg);	
+}
+.intro-title-4{
+	background-image: url(../images/slider/slide-2-page-intro.jpg);	
+}
+.intro-title-5{
 	background-image: url(../images/slider/slide-2-page-intro.jpg);	
 }
 .intro-title-2-1{
@@ -1946,7 +1958,7 @@ body,
 	margin-bottom: 2rem;
 }
 .team-2 .team-content-info{
-	padding: 2rem;
+	padding: 50px;
 }
 .team-2 .social-list{
 	margin-bottom: 0;
@@ -3762,5 +3774,8 @@ only screen and (				min-resolution: 2dppx) {
 	/* Signup */
 	.signup-2-1{
 		background-image: url(../images/architecture/generic/signup-1@2x.jpg);
+	}
+	 .motto-icon{
+		height: 20px;
 	}
 }
