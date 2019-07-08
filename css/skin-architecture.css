@@ -345,7 +345,21 @@ body,
 .bkg-grey{
 	background-color: #4e4e4d;
 	border-color: #4e4e4d;
+
 }
+.bkg-1{
+	background-color: #848484;
+	border-color: #848484;
+}
+.bkg-2{
+	background-color: #424242;
+	border-color: #424242;
+}
+.bkg-3{
+	background-color: #212121;
+	border-color: #212121;
+}
+
 .bkg-hover-grey:hover{
 	background-color: #4e4e4d;
 	border-color: #4e4e4d;
@@ -393,8 +407,8 @@ body,
 
 /* theme */
 .bkg-theme{
-	background-color: #a0c9cc;
-	border-color: #a0c9cc;
+	background-color: #424242;
+	border-color: #424242;
 }
 .bkg-hover-theme:hover{
 	background-color: #a0c9cc;
