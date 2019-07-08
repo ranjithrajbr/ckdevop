@@ -3776,6 +3776,6 @@ only screen and (				min-resolution: 2dppx) {
 		background-image: url(../images/architecture/generic/signup-1@2x.jpg);
 	}
 	 .motto-icon{
-		height: 20px;
+		height: 100px;
 	}
 }
